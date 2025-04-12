@@ -1,0 +1,20 @@
+body {
+font-size: 26px;
+font-family: Arial, Helvetica, sans-serif;
+background-color: #FFFFF0;
+color: #000000;
+text-align: center;
+}
+#myHeader {
+    background-color:#A9A9A9;
+    color: black;
+    padding: 40px;
+    text-align: center;
+}
+.city {
+    background-color:#DCDCDC ;
+    color: black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
